@@ -23,8 +23,6 @@ Este relatório apresenta uma análise estratégica do mercado de missões espac
 
 ### 🚀 Principais Insights
 
-<hr>
-
 ##### Colonização Domina o Mercado, mas Custo-Benefício é Questionável:
 
 📊 35% das missões são de colonização, porém:
